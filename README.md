@@ -57,3 +57,11 @@ pip install matplotlib
 ```
 pip install scipy
 ```
+
+**STEP 4:** After above installations
+> * ***Option 1:*** Either clone the repository using the below command, and move to directory **".../Smart_Monitoring_System/Code"** and open **'classroom monitor.ipynb'** in Jupyter Notebook. And pass the directory of **'shape_predictor_68_face_landmarks.dat'** file, where it is required in the code.     
+```
+https://github.com/dheeraj-2000/Smart_Monitoring_System.git
+```
+
+> * ***Option 2:*** Or, After Unzipping this folder, move to **".../Smart_Monitoring_System/Code"** and open **'classroom monitor.ipynb'** in Jupyter Notebook. And pass the directory of **'shape_predictor_68_face_landmarks.dat'** file, where it is required in the code.     
