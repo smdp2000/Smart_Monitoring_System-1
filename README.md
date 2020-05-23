@@ -1,7 +1,7 @@
 # **<div align="center"> <ins> User Manual</ins> </div>**
 
 ## Follow the given procedure to Setup and installation of required libraries
-* Create an environment using the below commands
+ **STEP 1:** Create an environment using the below commands
 > * **Setup the pip package manager**
 ```
 pip install -U pip
@@ -20,4 +20,10 @@ virtualenv mypython
 You can activate the python environment by running the following command:
 ```
 source mypython/bin/activate
+```
+
+
+ **STEP 2:** Install Python (We've used Python3.7) using the command
+```
+sudo apt install python3.7
 ```
