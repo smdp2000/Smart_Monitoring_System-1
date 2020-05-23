@@ -22,8 +22,18 @@ You can activate the python environment by running the following command:
 source mypython/bin/activate
 ```
 
-
- **STEP 2:** Install Python (We've used Python3.7) using the command
+**STEP 2:** Install Python (We've used Python3.7) using the command
 ```
 sudo apt install python3.7
+```
+
+**STEP 3:** Install Jupyter Nodebook using the command
+```
+pip install notebook
+```
+
+**STEP 4:** Install The required libraries
+> * **Install OpenCV using the command**
+```
+pip install opencv-python
 ```
