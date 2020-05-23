@@ -32,8 +32,28 @@ sudo apt install python3.7
 pip install notebook
 ```
 
-**STEP 4:** Install The required libraries
+**STEP 4:** Install The following required libraries
 > * **Install OpenCV using the command**
 ```
 pip install opencv-python
+```
+> * **Install Numpy using the command**
+```
+pip install numpy
+```
+> * **Install Pandas using the command**
+```
+pip install pandas
+```
+> * **Install Dlib using the command**
+```
+pip install dlib
+```
+> * **Install Matplotlib using the command**
+```
+pip install matplotlib
+```
+> * **Install Scipy using the command**
+```
+pip install scipy
 ```
