@@ -57,7 +57,6 @@ $ sudo apt-get install libboost-all-dev
 $ pip install scikit-image
 $ pip install dlib
 ```
-
 **STEP 4:** After above installations
 > * ***Option 1:*** Either clone the repository using the below command, and move to directory **".../Smart_Monitoring_System/Code"** and open **'classroom monitor.ipynb'** in Jupyter Notebook. And pass the directory of **'shape_predictor_68_face_landmarks.dat'** file, where it is required in the code.     
 ```
